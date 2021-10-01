@@ -1,30 +1,23 @@
-# This is a large heading
+# Suzanna Gowero
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Harare, the Capital city of Zimbabwe.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my most favorite books are
 
-Here is `some code` in the middle of a sentence.
+ - *The name of the Rose* by Umberto Eco
+ - *Les Miserables* by Victor Hugo
+ - *Persepolis* by Marjane Satrapi
 
-```
-This is
-a block
-of code
-```
+### Food
+I love love eating in these restaurants:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. St Elmos in Harare
+2. Cafe Nush in Avondale
+3. The Test Kitchen in Capetown
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+### Contact
+The best way to get in touch with me is [on email](suzannagowero@gmail.com)
